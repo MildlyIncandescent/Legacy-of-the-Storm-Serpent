@@ -1,0 +1,55 @@
+{
+  "id": "legacy-of-the-storm-serpent",
+  "title": "Legacy of the Storm Serpent",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "legacy-of-the-storm-serpent-feats",
+      "label": "Legacy of the Storm Serpent Feats",
+      "path": "packs/legacy-of-the-storm-serpent-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "legacy-of-the-storm-serpent-effects",
+      "label": "Legacy of the Storm Serpent Effects",
+      "path": "packs/legacy-of-the-storm-serpent-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "legacy-of-the-storm-serpent-spells",
+      "label": "Legacy of the Storm Serpent Spells",
+      "path": "packs/legacy-of-the-storm-serpent-spells",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "name": "Max Forrest",
+      "discord": "MostlyDead"
+    }
+  ],
+  "url": "https://github.com/MildlyIncandescent/Legacy-of-the-Storm-Serpent",
+  "description": "Unlock the lost techniques of the fabled Storm Serpent.\nhttps://www.pathfinderinfinite.com/product/479359/Legacy-of-the-Storm-Serpent",
+  "manifest":"https://raw.githubusercontent.com/MildlyIncandescent/Legacy-of-the-Storm-Serpent/main/module.json",
+  "download":"https://github.com/MildlyIncandescent/Legacy-of-the-Storm-Serpent/raw/main/Legacy-of-the-Storm-Serpent.zip"
+}
+}
